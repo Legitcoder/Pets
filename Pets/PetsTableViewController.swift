@@ -50,7 +50,7 @@ class PetsTableViewController: UITableViewController {
         return cell
     }
     
-    let pets: [String] = ["dog", "cat", "snake", "rabbit"]
+    let pets: [String] = ["dog", "cat", "snake", "rabbit", "fish", "monkey", "hamster"]
 
 
     /*
